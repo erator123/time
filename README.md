@@ -1,1 +1,3 @@
 # time
+tento web zobrazuje čas atd....
+![image](https://user-images.githubusercontent.com/54680713/116819102-d0a29400-ab6e-11eb-958a-b97db7f394a4.png)
